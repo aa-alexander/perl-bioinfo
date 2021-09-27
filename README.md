@@ -1,2 +1,3 @@
-# perl-bioinfo
-Basic perl programs for begginers in bioinformatics. 
+# Basic Perl Programs 
+
+Basic perl programs for beginners in bioinformatics. 
